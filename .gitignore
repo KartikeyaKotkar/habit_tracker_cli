@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+
+src/data/habits.json
+
+venv/
+env/
+*.egg-info/
+*.egg
+
+# IDE specific files
+.idea/
+*.iml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Miscellaneous
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Project exclude paths
+/.venv/
