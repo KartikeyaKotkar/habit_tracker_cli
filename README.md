@@ -20,8 +20,8 @@ A simple command-line application to help you track your daily habits, monitor y
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/CLI_habit_tracker.git
-   cd CLI_habit_tracker
+   git clone https://github.com/yourusername/habit_tracker_cli.git
+   cd habit_tracker_cli
    ```
 
 2. **Set up a virtual environment (optional but recommended)**:
